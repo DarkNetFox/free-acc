@@ -211,7 +211,7 @@ app.post(`/get/ref=*`, (req, res) => {
     }
 })
 
-app.listen(3000, () => {
+app.listen("quiet-lake-74385.herokuapp.com", () => {
     console.log(`Сервер запущен на хосте 3000!`)
 })
 
