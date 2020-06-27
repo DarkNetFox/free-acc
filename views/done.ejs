@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Список (<%= users.length %>)</title>
+    <link rel="stylesheet" href="/done_style">
+    <link rel="shortcut icon" href="https://cdn.glitch.com/d01bbe02-86e0-4785-8f71-22879b8ba7ea%2Ffree%20acc%20icon.jpg?v=1587040815628" type="image/png">
+</head>
+<body>
+    <h1 class="done-tab">Осталось аккаунтов - <%= data.items %></h1>
+    <div class="block_post">
+        <div class="text">Пользователи, которые получат аккаунты:</div>
+        <% users.forEach(function(item) { %>
+            <a class="a_usersList" target="_blank" href="https://vk.com/id<%= item.id %>">
+                <div class="users_list">
+                    <%= item.number %>. <%= item.name %>
+                    <div class="game">
+                        <img class="game_icon" src="<%= games_data[item.game].icon %>">
+                    </div>
+                </div>
+            </a>
+        <% }); %>
+    </div>
+</body>
+</html>

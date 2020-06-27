@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    background-color: rgb(54, 54, 54);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.done-tab {
+    background: rgb(58, 169, 119) radial-gradient(circle, transparent 1%, rgb(58, 169, 119) 1%) center/15000%;
+    color: rgb(255, 255, 254);
+    font-size: 1.4em;
+    text-align: center;
+    left: auto;
+    right: auto;
+    position: relative;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-bottom: 12px;
+    margin-top: 0px;
+}
+.users_list {
+    font-weight: 600;
+    height: auto;
+    padding: 9px 15px;
+    padding-bottom: 13px;
+    line-height: 24px;
+    border-bottom: 1px solid rgb(45, 45, 45);
+}
+
+.users_list:hover {
+    background-color: rgb(43, 43, 43);
+}
+
+.a_usersList {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.a_usersList:hover {
+    text-decoration: none;
+    color: rgb(58, 169, 119);
+}
+.text {
+    background: rgb(39, 39, 39);
+    padding: 20px;
+    border-bottom: 1px solid rgb(45, 45, 45);
+    font-weight: 700;
+    border-radius: 6px 6px 0 0;
+}
+
+.block_post {
+    background-color: rgb(39,39,39);
+    margin-left: 8px;
+    margin-right: 8px;
+    color: #f5f5f5;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.game {
+    display: inline-block;
+    position: relative;
+}
+
+.game_icon {
+    position: relative;
+    width: 25px;
+    margin-left: 5px;
+    margin-bottom: -8px;
+    border-radius: 4px;
+}

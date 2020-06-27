@@ -1,0 +1,146 @@
+{
+    "1": {
+        "name": "ВКонтакте",
+        "icon": "https://kaktus-cpo.ru/wp-content/uploads/2018/08/vk.png"
+    },
+    "2": {
+        "name": "Одноклассники",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Odnoklassniki.svg/1200px-Odnoklassniki.svg.png" 
+    },
+    "3": {
+        "name": "Instagram",
+        "icon": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw"
+    },
+    "4": {
+        "name": "Google",
+        "icon": "https://pbs.twimg.com/profile_images/1045580248467886080/_uwwJdr3_400x400.jpg" 
+    },
+    "5": {
+        "name": "Facebook",
+        "icon": "https://www.facebook.com/images/fb_icon_325x325.png" 
+    },
+    "6": {
+        "name": "Twitter",
+        "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a0/4a/b5/a04ab5d7-7c33-15c2-d9e2-a85cc8bd1aab/ProductionAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" 
+    },
+    "7": {
+        "name": "Mail",
+        "icon": "https://limg.imgsmail.ru/splash/v/i/share-fp-a2954bf3df.png" 
+    },
+    "8": {
+        "name": "YouTube",
+        "icon": "https://lamcdn.net/lookatme.ru/post-cover/RmX1uWAqZEDHYNjgiYp14Q-default.png" 
+    },
+    "9": {
+        "name": "Steam",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png" 
+    },
+    "10": {
+        "name": "Юла",
+        "icon": "https://freesoft.ru/storage/images/211/2110/210907/210907_normal.png" 
+
+    },
+    "11": {
+        "name": "Telegram",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" 
+
+    },
+    "12": {
+        "name": "Discord",
+        "icon": "https://avatanplus.com/files/resources/mid/5cfe252b6cf8416b40c131b6.png" 
+
+    },
+    "13": {
+        "name": "Авито",
+        "icon": "https://pbs.twimg.com/profile_images/979297593212719105/HRexOu8T_400x400.jpg" 
+
+    },
+    "14": {
+        "name": "Brawl Stars",
+        "icon": "https://img.utdstc.com/icons/brawl-stars-tencent-gaming-buddy.png:225" 
+
+    },
+    "15": {
+        "name": "Minecraft",
+        "icon": "https://cdn.shortpixel.ai/spai/w_473+q_lossy+ret_img+to_webp/https://apkdone.com/wp-content/uploads/2019/09/minecraft-icon.png" 
+    },
+    "16": {
+        "name": "Clash of Сlans",
+        "icon": "https://i.pinimg.com/originals/e5/d6/26/e5d6266eb44527c9789556dba7491c41.png" 
+
+    },
+    "17": {
+        "name": "Clash Royale",
+        "icon": "https://i.pinimg.com/originals/3d/fa/71/3dfa7184e88a1b69f9fde0d08dc7b7ae.png" 
+    },
+    "18": {
+        "name": "ТикТок",
+        "icon": "https://lh3.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA" 
+
+    },
+    "19": {
+        "name": "Battle.net",
+        "icon": "https://storage.googleapis.com/multi-static-content/previews/artage-io-thumb-2a9931aff3e310c9fbf2a4910d3f408c.png" 
+
+    },
+    "20": {
+        "name": "Pubg",
+        "icon": "https://i.pinimg.com/originals/f0/62/a3/f062a3f214b208dd4eac506542f91422.png" 
+
+    },
+    "21": {
+        "name": "Rust",
+        "icon": "https://cdn.glitch.com/d01bbe02-86e0-4785-8f71-22879b8ba7ea%2Funnamed%20(1).png?v=1587167656444" 
+
+    }, 
+    "22": {
+        "name": "CS-GO",
+        "icon": "https://steamuserimages-a.akamaihd.net/ugc/26240387385536532/49574C5936D7022D597227832C87F6B0C8863AEB/" 
+
+    }, 
+    "23": {
+        "name": "Origin",
+        "icon": "https://cdn.glitch.com/d01bbe02-86e0-4785-8f71-22879b8ba7ea%2Funnamed.png?v=1587167656172" 
+
+    }, 
+    "24": {
+        "name": "Sims 4",
+        "icon": "https://vignette.wikia.nocookie.net/sims/images/e/e4/TS4_Icon.png/revision/latest/scale-to-width-down/340?cb=20190717110115&path-prefix=ru" 
+
+    },
+    "25": {
+        "name": "Epic Games",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Epic_Games_logo.svg/516px-Epic_Games_logo.svg.png" 
+
+    },
+    "26": {
+        "name": "Dota 2",
+        "icon": "https://image.flaticon.com/icons/png/512/871/871366.png" 
+
+    },
+    "27": {
+        "name": "World of Tanks",
+        "icon": "https://cdn2.iconfinder.com/data/icons/popular-games-1/50/wot_squircle-512.png" 
+
+    },
+    "28": {
+        "name": "War Thunder",
+        "icon": "https://static.warthunder.ru/upload/image/wt_wopl_icon.png" 
+
+    },
+    "29": {
+        "name": "Targem Games",
+        "icon": "http://targem.ru/favicon.ico" 
+
+    },
+    "30": {
+        "name": "Social club",
+        "icon": "https://media.cdnandroid.com/96/36/4c/77/imagen-rockstar-social-club-beta-0thumb.jpg" 
+
+    },
+    "31": {
+        "name": "Valorant",
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/88/Valorant_icon.png/revision/latest?cb=20200302105445" 
+
+    }
+}
