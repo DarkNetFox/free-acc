@@ -1,0 +1,17 @@
+{
+    "name": "dnf_test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines": {
+        "node": "13.5.0"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "vk-io": "^4.0.0-rc.30"
+    }
+}
